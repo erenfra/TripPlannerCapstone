@@ -1,0 +1,31 @@
+{
+  "configurations" : [
+    {
+      "id" : "1E7E7808-BAFB-4CEF-9C76-EFCB44829F2F",
+      "name" : "Configuration 1",
+      "options" : {
+
+      }
+    }
+  ],
+  "defaultOptions" : {
+
+  },
+  "testTargets" : [
+    {
+      "target" : {
+        "containerPath" : "container:TripPlannerCapstone.xcodeproj",
+        "identifier" : "245290912A2162CE00C2DD63",
+        "name" : "TripPlannerCapstoneUITests"
+      }
+    },
+    {
+      "target" : {
+        "containerPath" : "container:TripPlannerCapstone.xcodeproj",
+        "identifier" : "245290842A2162BD00C2DD63",
+        "name" : "TripPlannerCapstoneUnitTests"
+      }
+    }
+  ],
+  "version" : 1
+}
